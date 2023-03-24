@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="TagsInput" type="JavaScript" />
       <mapping pattern="www" type="JavaScript" />
+      <mapping pattern="TagsInput" type="JavaScript" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
@@ -16,9 +16,7 @@
       <removed_mapping ext="yaml" approved="true" type="YAML_EX" />
       <removed_mapping ext="yml" approved="true" type="YAML_EX" />
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="TagsInput" type="JavaScript" />
       <mapping pattern="ignore" type="Git exclude file" />
-      <mapping pattern="www" type="JavaScript" />
     </extensionMap>
   </component>
 </application>
