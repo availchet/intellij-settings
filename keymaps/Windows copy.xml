@@ -1,0 +1,5 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="IntentionActionAsAction_org.intellij.idea.lang.javascript.intention.string.JSDoubleToSingleQuotedStringIntention">
+    <keyboard-shortcut first-keystroke="ctrl alt 2" />
+  </action>
+</keymap>

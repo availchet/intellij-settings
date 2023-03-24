@@ -1,0 +1,12 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="OPEN_SSH" host="172.29.47.181" id="247b232c-115a-45b9-82eb-862bc929d9aa" port="2222" nameFormat="DESCRIPTIVE" username="chetanya" useOpenSSHConfig="true" />
+      <sshConfig authType="OPEN_SSH" host="172.26.92.138" id="5fec56b4-7878-4884-94ce-d88f7ecba8e8" keyPath="\\wsl$\Ubuntu\home\chetanya\.ssh\id_rsa" port="2222" nameFormat="DESCRIPTIVE" username="chetanya" useOpenSSHConfig="true" />
+      <sshConfig host="IE-6JSGV53-P" id="c398483b-fcd0-43fb-a190-1f88a99a1688" keyPath="\\wsl$\Ubuntu\home\chetanya\.ssh\id_rsa" port="2222" nameFormat="DESCRIPTIVE" username="chetanya" useOpenSSHConfig="true" />
+      <sshConfig host="IE-6JSGV53-P" id="1be48751-aeb5-4ceb-bbd6-5dbe1f101113" keyPath="\\wsl$\Ubuntu\home\chetanya\.ssh\id_rsa" port="2222" customName="chetanya@IE-6JSGV53-P:2222 key2" nameFormat="CUSTOM" username="chetanya" useOpenSSHConfig="true">
+        <option name="customName" value="chetanya@IE-6JSGV53-P:2222 key2" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>

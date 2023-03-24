@@ -1,0 +1,12 @@
+<application>
+  <component name="NodeJsLocalInterpreterManager">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="16.18.0" last-modified="1665576212000" />
+    </local-interpreter>
+  </component>
+  <component name="WslNodeInterpreterManager">
+    <wsl-interpreter distribution="Ubuntu" path="/home/chetanya/.nvm/versions/node/v18.12.1/bin/node" />
+    <wsl-interpreter distribution="Ubuntu" path="/home/chetanya/.nvm/versions/node/v14.21.1/bin/node" />
+    <wsl-interpreter distribution="Ubuntu" path="/home/chetanya/.nvm/versions/node/v16.10.0/bin/node" />
+  </component>
+</application>

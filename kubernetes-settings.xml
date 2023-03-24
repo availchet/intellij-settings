@@ -1,0 +1,11 @@
+<application>
+  <component name="KubernetesApiSettings">
+    <option name="kubeconfigPath" value="C:\Users\c.kandhari\.kube\config" />
+    <option name="kubectlPath" value="C:\Program Files\Docker\Docker\resources\bin\kubectl.exe" />
+    <option name="namespaces">
+      <list>
+        <option value="platform" />
+      </list>
+    </option>
+  </component>
+</application>
