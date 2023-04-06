@@ -1,16 +1,17 @@
 <application>
-  <component name="Vcs.Log.App.Settings">
-    <option name="COLUMN_ID_ORDER">
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
       <list>
-        <option value="Default.Root" />
-        <option value="Default.Subject" />
-        <option value="Default.Author" />
-        <option value="Default.Date" />
-        <option value="Space.CommitStatus" />
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:mattermost/mattermost-mobile.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:bench-routes/bench-routes.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
+    <option name="cloneParentDir" value="$USER_HOME$/projects" />
   </component>
 </application>

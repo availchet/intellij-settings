@@ -1,5 +1,19 @@
 <application>
+  <component name="DiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="ChangesView">
+        <PlaceSettings />
+      </entry>
+    </option>
+  </component>
   <component name="ExternalDiffSettings">
     <option name="MIGRATE_OLD_SETTINGS" value="true" />
+  </component>
+  <component name="TextDiffSettings">
+    <option name="SHARED_SETTINGS">
+      <SharedSettings>
+        <option name="MERGE_AUTO_APPLY_NON_CONFLICTED_CHANGES" value="true" />
+      </SharedSettings>
+    </option>
   </component>
 </application>
