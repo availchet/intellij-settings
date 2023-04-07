@@ -19,5 +19,6 @@
     <resource url="https://kahalemakai.github.io/schemas/opencsv/0.4.3/opencsv.xsd" location="$USER_HOME$/.IdeaIC/system/extResources/2eb3dc6f_opencsv.xsd" />
     <resource url="https://kahalemakai.github.io/schemas/opencsv/0.4.7/opencsv.xsd" location="$USER_HOME$/.IdeaIC2016.3/system/extResources/e8bff673_opencsv.xsd" />
     <resource url="https://kahalemakai.github.io/schemas/opencsv/0.5.0/opencsv.xsd" location="$USER_HOME$/.IdeaIC2016.3/system/extResources/bd06332d_opencsv.xsd" />
+    <resource url="https://raw.githubusercontent.com/spotbugs/spotbugs/3.1.0/spotbugs/etc/findbugsfilter.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2022.2/extResources/6040b7_findbugsfilter.xsd" />
   </component>
 </application>
