@@ -2,4 +2,7 @@
   <component name="ee.carlrobert.codegpt.account.AccountDetailsState">
     <option name="accountName" value="Chetanya Kandhari" />
   </component>
+  <component name="ee.carlrobert.codegpt.state.AccountDetailsState">
+    <option name="accountName" />
+  </component>
 </application>
