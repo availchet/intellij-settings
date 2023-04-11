@@ -1,8 +1,28 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="rulesByKey">
+      <map>
+        <entry key="java:S1192">
+          <value>
+            <Rule active="false" key="java:S1192" />
+          </value>
+        </entry>
+        <entry key="javascript:S1481">
+          <value>
+            <Rule active="false" key="javascript:S1481" />
+          </value>
+        </entry>
+        <entry key="javascript:S3317">
+          <value>
+            <Rule active="false" key="javascript:S3317" />
+          </value>
+        </entry>
+      </map>
+    </option>
     <rules>
       <Rule active="false" key="javascript:S1481" />
       <Rule active="false" key="javascript:S3317" />
+      <Rule active="false" key="java:S1192" />
     </rules>
   </component>
 </application>
