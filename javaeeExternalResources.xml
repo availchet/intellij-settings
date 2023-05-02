@@ -10,7 +10,6 @@
     <resource url="http://kahalemakai.github.io/schemas/opencsv/0.4.0/sink.xsd" location="$USER_HOME$/.IdeaIC2016.2/system/extResources/f3a70d3c_sink.xsd" />
     <resource url="http://kahalemakai.github.io/schemas/opencsv/0.4.9/sink.xsd" location="$USER_HOME$/.IdeaIC2016.3/system/extResources/8a3c0753_sink.xsd" />
     <resource url="http://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/xml/doc-files/log4j.dtd" location="$USER_HOME$/.IdeaIC2016.3/system/extResources/5a3ee903_log4j.dtd" />
-    <resource url="https://checkstyle.org/dtds/configuration_1_3.dtd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2022.2/extResources/385f0dd3_configuration_1_3.dtd" />
     <resource url="https://kahalemakai.github.io/schemas/opencsv/0.2.3/opencsv.xsd" location="$USER_HOME$/.IdeaIC2016.2/system/extResources/7afd07ed_opencsv.xsd" />
     <resource url="https://kahalemakai.github.io/schemas/opencsv/0.3.1/opencsv.xsd" location="$USER_HOME$/.IdeaIC2016.2/system/extResources/f7d2652c_opencsv.xsd" />
     <resource url="https://kahalemakai.github.io/schemas/opencsv/0.3.5/bean.xsd" location="$USER_HOME$/.IdeaIC2016.2/system/extResources/89360852_bean.xsd" />
@@ -19,6 +18,5 @@
     <resource url="https://kahalemakai.github.io/schemas/opencsv/0.4.3/opencsv.xsd" location="$USER_HOME$/.IdeaIC/system/extResources/2eb3dc6f_opencsv.xsd" />
     <resource url="https://kahalemakai.github.io/schemas/opencsv/0.4.7/opencsv.xsd" location="$USER_HOME$/.IdeaIC2016.3/system/extResources/e8bff673_opencsv.xsd" />
     <resource url="https://kahalemakai.github.io/schemas/opencsv/0.5.0/opencsv.xsd" location="$USER_HOME$/.IdeaIC2016.3/system/extResources/bd06332d_opencsv.xsd" />
-    <resource url="https://raw.githubusercontent.com/spotbugs/spotbugs/3.1.0/spotbugs/etc/findbugsfilter.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2022.2/extResources/6040b7_findbugsfilter.xsd" />
   </component>
 </application>

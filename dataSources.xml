@@ -10,7 +10,7 @@
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://tf-infra-pcp-dev-test-main.c6i1hgzpnjzd.eu-west-1.rds.amazonaws.com:5432/pcp_dev_test_chetanya_dev_test_naoa6ijurjdnvotvm6wu2e2c74</jdbc-url>
+      <jdbc-url>jdbc:postgresql://test-forgerock.ca772hpzc8vf.us-east-1.rds.amazonaws.com:5432/openidm</jdbc-url>
     </data-source>
   </component>
 </application>
