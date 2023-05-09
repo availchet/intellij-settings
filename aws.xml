@@ -3,4 +3,7 @@
     <option name="promptedForTelemetry" value="true" />
     <option name="telemetryEnabled" value="false" />
   </component>
+  <component name="codewhispererAutotriggerStates">
+    <option name="classifierGroup" value="false" />
+  </component>
 </application>
